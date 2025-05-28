@@ -17,7 +17,7 @@ A web application built with React.js that displays random quotes fetched from t
 - Use the social media icons to share the current quote on various platforms.
 
 # API Usage
-The project utilizes the adviceslipjsonapi to fetch random quotes. Visit the adviceslipjsonapi documentation to explore more about the API and its usage.
+The project utilizes the adviceslipjsonapi to fetch random quotes. 
 
 
 ## Screenshots
