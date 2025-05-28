@@ -19,29 +19,8 @@ A web application built with React.js that displays random quotes fetched from t
 # API Usage
 The project utilizes the adviceslipjsonapi to fetch random quotes. Visit the adviceslipjsonapi documentation to explore more about the API and its usage.
 
-# Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-## Demo
-
-[HERE](https://randomquotegenerator-dex.netlify.app/)
 
 ## Screenshots
 
 ![Screenshot](./src/img/screenshot.png)
 
-## Installation
-
-1. Clone the repository:
-   ```shell
-   git clone https://github.com/VIRUS-XDD/Random-Quote-Generator-React.git
-
-2. Install the dependencies:
-
-   ```shell
-   npm install
-
-3. Start the development server:
-   ```shell
-   npm start
-
-4. Open the app in your browser at http://localhost:3000.   
